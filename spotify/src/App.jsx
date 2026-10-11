@@ -147,14 +147,14 @@ const App = () => {
 
 <div className="mt-4 flex items-center gap-3 rounded-lg p-2">
   <img
-    src="/src/assets/arijit-singh.png"
+    src="/src/assets/Armaan-Malik.jpg"
     alt="Arijit Singh"
     className="h-12 w-12 rounded-full object-cover"
   />
 
   <div>
     <p className="text-sm font-medium text-white">
-      Arijit Singh
+      Armaan Mallik
     </p>
     <p className="text-sm text-gray-400">
       Artist
@@ -164,14 +164,14 @@ const App = () => {
 
 <div className="mt-4 flex items-center gap-3 rounded-lg p-2">
   <img
-    src="/src/assets/arijit-singh.png"
+    src="/src/assets/kishore-kumar.jpg"
     alt="Arijit Singh"
     className="h-12 w-12 rounded-full object-cover"
   />
 
   <div>
     <p className="text-sm font-medium text-white">
-      Arijit Singh
+     Kishore kumar
     </p>
     <p className="text-sm text-gray-400">
       Artist
@@ -181,14 +181,14 @@ const App = () => {
 
 <div className="mt-4 flex items-center gap-3 rounded-lg p-2">
   <img
-    src="/src/assets/arijit-singh.png"
+    src="/src/assets/karan-Aujla.png"
     alt="Arijit Singh"
     className="h-12 w-12 rounded-full object-cover"
   />
 
   <div>
     <p className="text-sm font-medium text-white">
-      Arijit Singh
+      Karan ajula
     </p>
     <p className="text-sm text-gray-400">
       Artist
@@ -198,14 +198,14 @@ const App = () => {
 
 <div className="mt-4 flex items-center gap-3 rounded-lg p-2">
   <img
-    src="/src/assets/arijit-singh.png"
+    src="/src/assets/ap.webp"
     alt="Arijit Singh"
     className="h-12 w-12 rounded-full object-cover"
   />
 
   <div>
     <p className="text-sm font-medium text-white">
-      Arijit Singh
+      AP Dhillon
     </p>
     <p className="text-sm text-gray-400">
       Artist
@@ -214,14 +214,14 @@ const App = () => {
 </div>
 <div className="mt-4 flex items-center gap-3 rounded-lg p-2">
   <img
-    src="/src/assets/arijit-singh.png"
+    src="/src/assets/yo yo.png"
     alt="Arijit Singh"
     className="h-12 w-12 rounded-full object-cover"
   />
 
   <div>
     <p className="text-sm font-medium text-white">
-      Arijit Singh
+     YO-YO Honey singh
     </p>
     <p className="text-sm text-gray-400">
       Artist
