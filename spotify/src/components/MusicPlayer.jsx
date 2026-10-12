@@ -3,7 +3,7 @@ const MusicPlayer = () => {
     <div className="fixed bottom-0 flex h-20 w-full items-center bg-black px-4">
       <div className="flex w-1/4 items-center gap-3">
         <img
-          src="src/assets/arijit-singh.png"
+          src="src/assets/dhurandhar.png"
           alt=""
           className="h-14 w-14  rounded object-cover"
         />
@@ -27,6 +27,13 @@ const MusicPlayer = () => {
           <span className="text-xs text-gray-400">6:02</span>
         </div>
       </div>
+      <div className="flex w-1/4 items-center justify-center ">
+  <img
+    src="/src/assets/right-controls.png"
+    alt="Volume and player options"
+    className="h-45 w-65 object-contain"
+  />
+</div>
     </div>
   );
 };
