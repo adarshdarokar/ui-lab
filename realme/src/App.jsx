@@ -4,7 +4,7 @@ const App = () => {
   return (
     <div className="relative min-h-screen overflow-hidden bg-black text-white">
 
-      {/* Background Video */}
+      {/* Background Video section */}
       <video
         autoPlay
         muted
